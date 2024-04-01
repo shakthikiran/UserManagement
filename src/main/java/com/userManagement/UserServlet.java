@@ -45,6 +45,8 @@ public class UserServlet extends HttpServlet{
                     throw new RuntimeException(e);
                 }
 				break;
+			default:
+				break;
 		}
 		resp.sendRedirect("loginSuccess.jsp");
 	}
