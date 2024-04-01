@@ -1,0 +1,12 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òôÂ øÿÿÿÿJ$0c247b06-bab2-492d-8f4a-b4123e303618
+‹
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(›’Û»8ªêú“ã1J$ba1a8493-26db-4cc8-a53a-fa03c8ae6c21
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÛÏóÿþÿÿÿÿ8©êú“ã1J$f6bfa0b1-fecc-49b9-903c-fcd815b1b9e8
+†
+java:S1659"EDeclare "username" and all following declarations on a separate line.(´•á‡üÿÿÿÿJ$de74ccdd-fdcf-4789-a307-4f0e368a5e36
+ƒ
+java:S1659"BDeclare "email" and all following declarations on a separate line.(Œ‚·‰üÿÿÿÿJ$5f296810-ff1e-4e0c-8abe-f3a97e5def2f
+r
+java:S6437"6Revoke and change this password, as it is compromised.(›’Û»J$29f84d5f-3b8b-48fc-b698-f0da04b3d698
